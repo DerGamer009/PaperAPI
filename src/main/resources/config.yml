@@ -1,0 +1,7 @@
+# Configuration for ServerIPSender
+# Pterodactyl panel base URL, e.g. "https://cp.titannode.de"
+pterodactyl-url: ""
+# API key for the Pterodactyl account
+auth-token: ""
+# ID of the server to query allocations for
+server-id: 0
