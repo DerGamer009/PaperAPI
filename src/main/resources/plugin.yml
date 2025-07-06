@@ -1,0 +1,5 @@
+name: ServerIPSender
+main: com.example.serveripsender.ServerIPSender
+version: 1.0.0
+author: Codex
+api-version: "1.20"
