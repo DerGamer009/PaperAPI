@@ -7,5 +7,5 @@ the plugin is enabled.
 
 ## Building
 
-Run `gradle build` to compile the plugin. The compiled JAR can be found in
-`build/libs`.
+Run `mvn package` to compile the plugin. The built JAR will be created in
+the `target` directory.
